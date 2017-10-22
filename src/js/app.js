@@ -1,5 +1,3 @@
-import  bar from './person'
+import  {bar,bye} from './person'
 
 console.log( bar())
-
-console.log("helllo")
