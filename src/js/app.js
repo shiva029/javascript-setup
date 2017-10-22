@@ -1,7 +1,5 @@
-let name= "srinivas"
-const age = 28
-console.log(`my name is ${name} and age is ${age}`)
+import  bar from './person'
 
-let hello ="sdsdfasd"
-var  hack ="jack";
-console.log(hack);
+console.log( bar())
+
+console.log("helllo")
