@@ -1,3 +1,5 @@
-import  {bar,bye} from './person'
+import Rx from 'rxjs-es';
+import { bar, bye } from './person';
 
-console.log( bar())
+bar();
+bye();

@@ -1,7 +1,7 @@
-export  function bar() {
-  console.log("im form hello")
+export function bar() {
+  return 'BAR';
 }
 
-export  function bye(){
+export function bye() {
   return false;
 }
